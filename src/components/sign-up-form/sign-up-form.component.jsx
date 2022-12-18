@@ -116,7 +116,7 @@ return (
         value={confirmPassword}
       />
 
-      <Button type='submit'>
+      <Button  type='submit'>
         Sign Up
         </Button>
     </form>
